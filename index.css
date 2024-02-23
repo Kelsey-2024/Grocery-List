@@ -1,0 +1,69 @@
+body
+{
+  background-image: linear-gradient(#FFEDE6, #dd9a9aef);
+  text-align: center;
+  max-width:900px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1
+{
+  color:#a10b0bb4;
+}
+
+h2
+{
+  text-align: center;
+  color:#a10b0bb4;
+  padding: 3.5%;
+  background-color: #FFEDE6;
+  border-radius: 70px;
+}
+
+section
+{
+  background-color: #f8dacdf5;
+  border: 2px #ca8080 dotted;
+}
+
+
+.image
+{
+  margin: 8px auto;
+  text-align: center;
+}
+
+.produce
+{
+  font-family:'Courier New', Courier, monospace; 
+  display: inline-block;
+  margin: 8px auto;
+  text-align: left;
+  padding: 3.5%;
+  background-color: #FFEDE6;
+  border-radius: 20px;
+  color: #a10b0bb4;
+}
+
+.frozenitems
+{
+  font-family:'Courier New', Courier, monospace;
+  display: inline-block;
+  margin: 8px auto;
+  text-align: left;
+  padding: 3.5%;
+  background-color: #FFEDE6;
+  border-radius: 20px;
+  color: #a10b0bb4;
+}
+
+#curry
+{
+  border: 2px black solid;
+}
+
+#freezer
+{
+  border: 2px black solid;
+}
